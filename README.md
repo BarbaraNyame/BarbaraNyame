@@ -22,9 +22,7 @@ This is my space to document my projects, experiments, and journey as I grow in 
 ## 📬 How to Reach Me:
 - **Email:** nyamebarbara9@gmail.com
 - **GitHub:** [@BarbaraNyame](https://github.com/BarbaraNyame)
-
+  
+Thanks for visiting my profile! check back soon for new projects and maps. 🌍📊
 ---
 
-<!--
-Thanks for visiting my profile! check back soon for new projects and maps. 🌍📊
--->
