@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋🏾 Hi, I'm Barbara Nyame!
+
+I'm a **GIS Professional and Developer** passionate about maps, data, and building geospatial solutions.  
+This is my space to document my projects, experiments, and journey as I grow in the world of **GIS and geospatial technology**.
+
+---
+
+## 🛠️ Tools I'm Using:
+- **Python** (for data analysis and scripting)
+- **GeoPandas** (spatial data handling)
+- **Folium** (interactive web maps)
+- **Shapely** (geometric operations)
+- **Jupyter Notebook** (code + data notebooks)
+- **VS Code** (code editor)
+- **QGIS** (desktop GIS software)
+- **PostgreSQL/PostGIS** (spatial databases — learning stage)
+- **Git & GitHub** (version control and open-source collaboration)
+- **AutoCAD** (drafting)
+
+---
+
+## 📬 How to Reach Me:
+- **Email:** nyamebarbara9@gmail.com
+- **GitHub:** [@BarbaraNyame](https://github.com/BarbaraNyame)
+
+---
 
 <!--
-**BarbaraNyame/BarbaraNyame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Thanks for visiting my profile! check back soon for new projects and maps. 🌍📊
 -->
