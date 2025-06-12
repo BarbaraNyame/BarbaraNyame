@@ -6,17 +6,17 @@ This is my space to document my projects, experiments, and journey as I grow in 
 ---
 
 ## 🛠️ Tools I'm Using:
-- **Python** (for data analysis and scripting)
-- **GeoPandas** (spatial data handling)
-- **Folium** (interactive web maps)
-- **Shapely** (geometric operations)
+- **Python** (for data analysis, automation, and scripting)
+- **GeoPandas** (for spatial data handling)
+- **Folium** (for interactive web maps)
+- **Shapely** (for geometric operations)
 - **Jupyter Notebook** (code + data notebooks)
 - **VS Code** (code editor)
 - **QGIS** (desktop GIS software)
-- **PostgreSQL/PostGIS** (spatial databases — learning stage)
+- **PostgreSQL/PostGIS** (spatial databases)
 - **Git & GitHub** (version control and open-source collaboration)
 - **AutoCAD** (drafting)
-
+- **GDAL** (geospatial data processing)
 ---
 
 ## 📬 How to Reach Me:
