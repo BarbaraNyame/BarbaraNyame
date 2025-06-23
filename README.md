@@ -28,17 +28,40 @@ This is my space to document my projects, experiments, and journey as I grow in 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-D7141A?style=for-the-badge)
 ---
 
+Core Geospatial Tools:
+	•	PostGIS — spatial databases & SQL spatial queries
+	•	QGIS — open-source desktop GIS for map creation & spatial analysis
+	•	pgAdmin — GUI for PostgreSQL/PostGIS databases
+	•	GeoReferencer Plugin (QGIS) — transforming old paper maps into digital spatial layers
 
-- **PostGIS** for spatial databases and SQL queries
-- **QGIS** for mapping, proximity analysis, and spatial data processing
-- **pgAdmin** for database management
-- **Python** with **GeoPandas**, **Folium**, **GDAL**, **Shapely**, and **Pandas** for GIS scripting and analysis
-- **Jupyter Notebook** for interactive GIS workflows and documentation
-- **Matplotlib** and **Seaborn** for data visualization
-- **Git** and **GitHub** for version control and project hosting
-- **VS Code** as my code editor
-- **AutoCAD (2023)** for site plan digitizing
-- **Terminal (macOS)** and **psql CLI** for database and environment management
+Programming & Scripting:
+	•	Python — core scripting language for GIS automation and spatial analysis
+	•	GeoPandas — spatial data manipulation in Python
+	•	GDAL/OGR — geospatial data conversion and processing
+	•	Shapely — geometric operations in Python
+	•	Pandas — data manipulation and wrangling
+	•	Folium — interactive map visualization in Python
+	•	Matplotlib & Seaborn — plotting and data visualization
+	•	Jupyter Notebook — for interactive data analysis, GIS scripting, and workflow documentation
+
+Development & Version Control:
+	•	Git — version control
+	•	GitHub — portfolio building and collaborative code hosting
+	•	Visual Studio Code (VS Code) — preferred code editor
+
+Command Line Tools:
+	•	psql — PostgreSQL/PostGIS command-line interface
+	•	Terminal (macOS) — for managing local dev environments and Git
+
+Additional:
+	•	AutoCAD (2023) — for digitizing site plans and layouts
+
+
+## 📌 Current Projects
+
+- Building GIS automation scripts using Python & GeoPandas
+- Digitizing legacy paper maps into PostGIS databases
+- Publishing spatial analysis projects on GitHub
 
 ## 📬 How to Reach Me:
 - **Email:** nyamebarbara9@gmail.com
