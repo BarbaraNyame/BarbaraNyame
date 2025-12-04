@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Barbara Nyame!
+# 👋🏾 Hi, You've reached Barbara Nyame!
 
 I'm a **GIS Professional and Developer** passionate about maps, data, and building geospatial solutions.  
 This is my space to document my projects, experiments, and journey as I grow in the world of **GIS and geospatial technology**.
@@ -6,7 +6,7 @@ This is my space to document my projects, experiments, and journey as I grow in 
 ---
 
 
-## 🛠️ Tools & Technologies I Use
+## 🛠️ Main Tools & Technologies
 
 ![PostGIS](https://img.shields.io/badge/PostGIS-0099C6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
