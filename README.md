@@ -67,7 +67,7 @@ This is my space to document my projects, experiments, and journey as I grow in 
 - Digitizing legacy paper maps into PostGIS databases
 - Publishing spatial analysis projects on GitHub
 
-## 📬 How to Reach Me:
+## 📬 How to Contact Me:
 - **Email:** nyamebarbara9@gmail.com
 - **GitHub:** [@BarbaraNyame](https://github.com/BarbaraNyame)
   
